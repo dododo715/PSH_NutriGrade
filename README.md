@@ -1,1 +1,1 @@
-xx
+This repository contains Python scripts for feature extraction from different types of fluorescence data. The code focuses exclusively on numerical feature computation, including leaf-level fluorescence parameters, OJIP curve features, and spatial fluorescence map features.
